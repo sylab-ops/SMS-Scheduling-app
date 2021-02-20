@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SMS</string>
+    <string name="sendButton">Send</string>
+    <string name="messageText">Enter message...</string>
+    <string name="phoneNumber">Enter phone number...</string>
+    <string name="contactButton">Select Contact</string>
+    <string name="displayTime">No Time Selected</string>
+    <string name="displayDate">No Date Selected</string>
+    <string name="selectTimeButton">Select Time</string>
+    <string name="selectDateButton">Select Date</string>
+    <string name="scheduleButton">Schedule Text</string>
+    <string name="smsManagerText">SMS Manager</string>
+    <string name="newSmsButton">New SMS</string>
+    <string name="smsManagerButton">SMS Manager</string>
+    <string name="indexActivityHeader">SMS Scheduler</string>
+    <string name="smsManagerHeader">SMS Manager</string>
+    <string name="createSmsHeader">Schedule a new SMS</string>
+    <string name="notificationsSwitchLabel">Notifications</string>
+    <string name="title_activity_sms_manager">smsManagerActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="deleteSmsLabel">Press and hold to delete an SMS</string>
+    <string name="cancelSmsLabel">Press and hold to cancel an SMS</string>
+    <string name="notificationInfoButton">\?</string>
+    <string name="nameInput">Enter recepient name...</string>
+    <string name="optionsSmsLabel">Press and hold to select an SMS option</string>
+</resources>
